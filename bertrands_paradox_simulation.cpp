@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <random>
+#include <corecrt_math_defines.h>
 
 // random chord length strategy(function generation)
 std::vector<double> randomChordLength(int nSamples) {
